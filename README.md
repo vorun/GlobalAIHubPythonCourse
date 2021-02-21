@@ -7,7 +7,7 @@
 
 **Email:** orhunn.dabak@hotmail.com
 
-**Note:** Your homeworks can be formats like ".ipynb" and ".py". **Not ".txt" files!!** Make sure that your codes works.  
+
 
 ## Recipe Application
 Enter 3 recipes. Create separate class for each recipe. İdentify the products using the init() method.
