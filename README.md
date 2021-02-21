@@ -12,8 +12,6 @@
 ## Recipe Application
 Enter 3 recipes. Create separate class for each recipe. İdentify the products using the init() method.
 write a function about how long these products should be used later.
-Do not forget to use inheritance here; For example;
-write a cooking function. Since this method will be common to all classes,you need to use inheritance here.
 
 ## Requirements
 ```
