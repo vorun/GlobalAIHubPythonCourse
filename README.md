@@ -17,5 +17,5 @@ write a function about how long these products should be used later.
 ---
 
 ### Certification
-![](img/certificate_ex.png)
+![](img/certificate.png)
 
