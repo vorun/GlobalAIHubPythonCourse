@@ -11,7 +11,7 @@
 
 ## Recipe Application
 Enter 3 recipes. Create separate class for each recipe. İdentify the products using the init() method.
-write a function about how long these products should be used later.
+write a function about how much these products should be used later.
 
 
 ---
